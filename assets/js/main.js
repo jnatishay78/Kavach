@@ -15,3 +15,17 @@ $(".button").click(function () {
     $("#" + $(this).attr("data-showdiv")).show().style.width = "100%".height = "100%";
 
 });
+
+let backtotop = select('.back-to-top')
+if (backtotop) {
+    const toggleBacktotop = () => {
+        if (window.scrollY > -2) {
+            backtotop.classList.add('active')
+        } else {
+            backtotop.classList.remove('active')
+        }
+    }
+    window.addEventListener('load', toggleBacktotop)
+    onscroll(document, toggleBacktotop)
+}
+
