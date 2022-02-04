@@ -15,4 +15,8 @@ The World Health Organization has warned that severe and mounting disruption to 
 ##### Project Description: 
 The title and tagline clearly depict the basic idea of the project, which is a product catalogue website for Hygiene Products for Covid-19 prevention and propagation. It is hard to find PPE items such as hand sanitiser, face shields or digital thermometers, so we created its catalogue which contains all information about variety of such products. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily via FAQ Bot. This project deals with developing an e-commerce website for Online sale of products to fight with Covid. It provides the user with a catalogue of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
+##### Demo:
+![image](https://user-images.githubusercontent.com/67281382/152585224-dfdcc978-c653-42fe-8953-57e13fda0d6a.png)
+
+
 
