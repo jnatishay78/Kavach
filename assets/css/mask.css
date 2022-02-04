@@ -1,0 +1,279 @@
+.navbar a{
+    color: black;
+    font-family: Taviraj;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+.jumbotron{
+    height:626px;
+    background-color: white;
+    position: relative;
+}
+
+.one1{
+position:absolute;
+width: 1010px;
+height: 505px;
+left: 265px;
+background: #E5E5E5;
+z-index: 1;
+}
+
+.gif1{
+    position: absolute;
+    left: 165px;
+    top: 105px;
+    border-radius: 0px;
+    z-index: 2;
+}
+.two2{
+    position: absolute;
+    left: 480px;
+    top: 80px;
+    border-radius: nullpx;
+    font-family: Taviraj;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 5px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+
+.info-01{
+    
+    font-family: Taviraj;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+
+}
+
+
+.first-child {
+    font-family: Calibri;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    
+    color: #5E84C5;
+}
+
+.card-block {
+    font-size: 1em;
+    background: #E5E5E5;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
+.card {
+    font-size: 1em;
+    overflow: hidden;
+   
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-top:20px;
+}
+.card-p{
+    width: 300px;
+    height: fit-content;
+}
+
+
+.card-a {
+    color: black;
+    height: fit-content;
+   
+  }
+  
+.cards {
+    max-width: 1200px;
+    margin: 30px auto;
+    display: grid;
+    grid-gap: 3rem;
+    
+ 
+}
+.info-01 h4{
+    
+  font-family: Taviraj;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+
+}
+
+
+.cards img{ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+/* Big CARDS */
+hr{
+    border: 1px solid #000000;
+    color: #000000;
+    width: 171px;
+    margin: 0 0 0 100px;
+   
+}
+
+.NewArrivals{
+  font-family: Taviraj;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.one{
+  width: 705px;
+  height: 450px;
+  left: 813px;
+  top:50px;
+  background: #E5E5E5;
+  z-index: -1;
+
+}
+.two{
+  width: 415px;
+  height: 300px;
+  top:500px;
+  background: #C4C4C4;
+
+}
+.three{
+  height: 534px;
+  width: 399px;
+  left: 224px;
+  top: 350px;
+  border-radius: 0px;
+
+}
+.four{
+  top:0px;
+  left:500px;
+}
+.ChainMask{
+  position: absolute;
+  width: fit-content;
+  height: 0px;
+  left: calc(50% - 171px/2 + 77.5px);
+  top: 400px;
+}
+
+.info-03{
+  position: absolute;
+  left: 30px;
+  top:80px;
+  
+}
+.info-03 li:nth-child(1){
+  
+  font-family: Taviraj;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  margin-left: 80px; 
+  margin-top: 50px;
+
+}
+
+.info-03 li+li{
+  font-family: Taviraj;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+  margin-left: 80px;
+  text-align: left;  
+  color: #777777;
+
+}
+
+.price{
+  font-family: Taviraj;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #333333;
+  text-decoration: solid;
+}
+.off{
+font-family: Taviraj;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #2D5B11;
+}
+.info-04{
+  position: absolute;
+  left: 800px;
+  top:520px;
+  font-family: Taviraj;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+  margin-left: 80px;
+  text-align: left;  
+  color: #777777;
+  
+}
+
+#div3{
+  position: absolute;
+  top: 2850px;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:fit-content;
+  background:#292626;
+  top: 3450px;
+  color: white;
+}
+
+
+  
+  /* Screen larger than 600px? 2 column */
+  @media (min-width: 600px) {
+    .cards { grid-template-columns: repeat(2, 1fr); }
+  }
+  
+  /* Screen larger than 900px? 3 columns */
+  @media (min-width: 900px) {
+    .cards { grid-template-columns: repeat(3, 1fr); }
+  }
